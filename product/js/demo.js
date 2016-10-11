@@ -1,1 +1,1 @@
-function a(){console.log("a")}
+function setRem(){document.documentElement.style.fontSize=innerWidth/20+"px"}setRem(),onresize=setRem;
